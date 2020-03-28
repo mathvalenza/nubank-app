@@ -21,7 +21,7 @@ export const Card = styled.View`
   position: absolute;
   left: 0;
   right: 0;
-  top: 380px;
+  top: 0;
 `;
 
 export const CardHeader = styled.View`
