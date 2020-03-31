@@ -8,9 +8,9 @@ This project is a pratical way to improve React Native skills and was built foll
 
 ## Running on Android device
 
-Once you have [all dependencies](https://docs.rocketseat.dev/ambiente-react-native/introducao) installed 
+Make sure you have [all dependencies](https://docs.rocketseat.dev/ambiente-react-native/introducao) installed and your device is on [developer mode](https://developer.android.com/studio/debug/dev-options).
 
-First, install the app on your device in development mode
+First, install the app
 
 ### `react-native run-android`
 
