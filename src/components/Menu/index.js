@@ -12,9 +12,15 @@ import {
   SignOutButtonText,
 } from './styles';
 
-export default function Menu() {
+export default function Menu({translateY}) {
   return (
-    <Container>
+    <Container
+      style={{
+        opacity: translateY.interpolate({
+          inputRange: [0, 200],
+          outputRange: [0, 1],
+        }),
+      }}>
       <Code>
         <QRCode
           value="http://github.com/mathvalenza/nubank-app"
