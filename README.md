@@ -1,6 +1,6 @@
 # Nubank App
 
-A clone of Nubank App using **React Native**.
+A clone of Nubank App interface using **React Native**.
 
 This project is a pratical way to improve React Native skills and was built following [this RocketSeat tutorial](https://www.youtube.com/watch?v=DDm0M_rZLJo).
 
